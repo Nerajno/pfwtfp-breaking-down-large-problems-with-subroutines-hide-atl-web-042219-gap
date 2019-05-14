@@ -98,7 +98,7 @@ It's "shape" is almost like a To-Do list:
 * Join half of the items with each other
 * Join the other halves of the items together
 * Join the two previous steps' outputs together
-* Viol&agrave;
+* Viol&agrave; [=> What ????] 
 ```
 
 "Shape" is a pretty fuzzy term, but it's the mental "image" of "what the code
